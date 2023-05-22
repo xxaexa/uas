@@ -1,3 +1,7 @@
+<?php
+$games = "valorant";
+?>
+
 <!doctype html>
 <html>
 <head>

@@ -1,4 +1,5 @@
 <?php
+
 $dsn = 'mysql:dbname=db_Zw;host=localhost';
 $user = 'root';
 $password = '';
@@ -13,4 +14,5 @@ catch(PDOException $e)
 	echo "PDO error".$e->getMessage();
 	die();
 }
+
 ?>
